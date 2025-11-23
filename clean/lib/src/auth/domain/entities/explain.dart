@@ -1,0 +1,17 @@
+/*
+
+IN THIS PATH DEVELOPER WILL WRITE THE PURE DART LOGIC FOR DISPLAYING HTE LOCALLY USED LISTS / OBJECTS< OR VARIABLES USED INT HE BUILD WIDGET.
+
+THESE CLASSES WILL EITHER BE CALLED FROM THE INITSATTE OR FROM THE CTA BUTTONS
+
+FOR EXAMPLE:
+
+class DusplayTime{
+
+static String getTime(String timeInMilliSeconds){
+ // Logic for the converting millisends into HH:MM:ss
+
+ return "updatedTime";
+}
+}
+*/

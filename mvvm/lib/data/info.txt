@@ -1,0 +1,5 @@
+The data/ folder is organized by type (not by feature) so multiple ViewModels can share data sources.
+
+. We strongly recommend using abstract repository classes, which isolate your app logic from concrete storage (APIs, databases). This lets you swap in different implementations (dev vs. prod) easily and keep layers loosely coupled.
+
+. In line with Flutter’s guidance, each repository mediates between ViewModels and the underlying sources.
