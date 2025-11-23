@@ -8,6 +8,15 @@ This repository contains two complete Flutter starter templates:
 Both are production-ready starter structures designed to help developers quickly bootstrap new applications without manually creating folders and boilerplate setup.
 
 ---
+## ⚡ Prefer an Automatic Setup?
+
+This repository explains how to implement Flutter MVVM and Clean Architecture **manually**.
+If you want a faster, one-command setup, use the official package on pub.dev:
+
+👉 **[arch_starters](https://pub.dev/packages/arch_starters)**
+Automatically generates complete architecture structures without the manual steps shown below.
+
+---
 
 ## Purpose
 
