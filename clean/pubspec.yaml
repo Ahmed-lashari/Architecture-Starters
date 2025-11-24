@@ -65,6 +65,8 @@ dev_dependencies:
   # built scripts ( ast development stage only)
   build_runner: ^2.4.13
 
+  arch_starters: ^1.0.1
+
 
 
   flutter_lints: ^5.0.0
